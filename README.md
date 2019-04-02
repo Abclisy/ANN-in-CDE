@@ -1,2 +1,2 @@
 # ANN-in-CDE
-Using an Artificial Neural Network to Map Cancer Common Data Elements
+This research used an Artificial Neural Network to Map Cancer Common Data Elements
